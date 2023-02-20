@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+	justify-content: center;
+}
+.holder{
+    width: 200px;
+    height: 200px;
+	justify-content: center;
+    background-color: lightpink;
+    border: 2px solid red;
+	flex-wrap: wrap;
+	display: flex;
+	
+}
